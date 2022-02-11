@@ -36,10 +36,13 @@ function Drawer({ onClose, items = [], onRemove, opened }) {
       }
       setIsLoading(false);
    };
+   {
+      opened
+         ? (document.body.style.overflow = "hidden")
+         : (document.body.style.overflow = "");
+   }
    return (
-      <div
-         className={`${styles.overlay} ${opened ? styles.overlayVisible : ""}`}
-      >
+      <div className={`${styles.overlay} ${opened && styles.overlayVisible}`}>
          <div className={styles.drawer}>
             <h2 className="d-flex mb-30 justify-between">
                Корзина
