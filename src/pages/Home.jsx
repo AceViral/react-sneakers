@@ -35,10 +35,10 @@ function Home({
                   : "Все кроссовки"}
             </h1>
             <div className="search-block">
-               <img src="/img/search.svg" alt="Search" />
+               <img src="img/search.svg" alt="Search" />
                {searchValue && (
                   <img
-                     src="/img/btn-remove.svg"
+                     src="img/btn-remove.svg"
                      alt="Clear"
                      className="clear cu-p"
                      onClick={() => setSearchValue("")}
