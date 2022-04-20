@@ -39,7 +39,7 @@ function Drawer({ onClose, items = [], onRemove, opened }) {
    {
       opened
          ? (document.body.style.overflow = "hidden")
-         : (document.body.style.overflow = "");
+         : (document.body.style.overflow = "auto");
    }
    return (
       <div className={`${styles.overlay} ${opened && styles.overlayVisible}`}>
