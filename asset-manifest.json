@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-sneakers/static/css/main.5003b999.chunk.css",
-    "main.js": "/react-sneakers/static/js/main.28f3e4ce.chunk.js",
-    "main.js.map": "/react-sneakers/static/js/main.28f3e4ce.chunk.js.map",
+    "main.css": "/react-sneakers/static/css/main.bd3aeb28.chunk.css",
+    "main.js": "/react-sneakers/static/js/main.4cbe39ca.chunk.js",
+    "main.js.map": "/react-sneakers/static/js/main.4cbe39ca.chunk.js.map",
     "runtime-main.js": "/react-sneakers/static/js/runtime-main.909bdb44.js",
     "runtime-main.js.map": "/react-sneakers/static/js/runtime-main.909bdb44.js.map",
     "static/css/2.1cdcfe91.chunk.css": "/react-sneakers/static/css/2.1cdcfe91.chunk.css",
-    "static/js/2.021450c8.chunk.js": "/react-sneakers/static/js/2.021450c8.chunk.js",
-    "static/js/2.021450c8.chunk.js.map": "/react-sneakers/static/js/2.021450c8.chunk.js.map",
+    "static/js/2.1349e09e.chunk.js": "/react-sneakers/static/js/2.1349e09e.chunk.js",
+    "static/js/2.1349e09e.chunk.js.map": "/react-sneakers/static/js/2.1349e09e.chunk.js.map",
     "index.html": "/react-sneakers/index.html",
     "static/css/2.1cdcfe91.chunk.css.map": "/react-sneakers/static/css/2.1cdcfe91.chunk.css.map",
-    "static/css/main.5003b999.chunk.css.map": "/react-sneakers/static/css/main.5003b999.chunk.css.map",
-    "static/js/2.021450c8.chunk.js.LICENSE.txt": "/react-sneakers/static/js/2.021450c8.chunk.js.LICENSE.txt",
-    "static/media/cart.5113b08f.svg": "/react-sneakers/static/media/cart.5113b08f.svg",
-    "static/media/like.31c528b0.svg": "/react-sneakers/static/media/like.31c528b0.svg",
-    "static/media/user.381202f7.svg": "/react-sneakers/static/media/user.381202f7.svg"
+    "static/css/main.bd3aeb28.chunk.css.map": "/react-sneakers/static/css/main.bd3aeb28.chunk.css.map",
+    "static/js/2.1349e09e.chunk.js.LICENSE.txt": "/react-sneakers/static/js/2.1349e09e.chunk.js.LICENSE.txt",
+    "static/media/cart.088b5dd7.svg": "/react-sneakers/static/media/cart.088b5dd7.svg",
+    "static/media/like.0f1a07ae.svg": "/react-sneakers/static/media/like.0f1a07ae.svg",
+    "static/media/user.a2d7f9ab.svg": "/react-sneakers/static/media/user.a2d7f9ab.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.909bdb44.js",
     "static/css/2.1cdcfe91.chunk.css",
-    "static/js/2.021450c8.chunk.js",
-    "static/css/main.5003b999.chunk.css",
-    "static/js/main.28f3e4ce.chunk.js"
+    "static/js/2.1349e09e.chunk.js",
+    "static/css/main.bd3aeb28.chunk.css",
+    "static/js/main.4cbe39ca.chunk.js"
   ]
 }
