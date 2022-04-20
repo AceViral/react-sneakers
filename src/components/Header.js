@@ -1,10 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import useCart from "./Hooks/useCart";
-import logo from "../img/logo.png";
-import cart from "../img/cart.svg";
-import like from "../img/like.svg";
-import user from "../img/user.svg";
 function Header(props) {
    const { totalPrice } = useCart();
    return (
